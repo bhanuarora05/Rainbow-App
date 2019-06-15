@@ -1,7 +1,10 @@
 Instructions of use
 
 open terminal/cmd
-cd rainbow-app/src
+cd rainbow-app
+npm install
+
+cd src
 node server.js
 
 open another terminal/cmd
